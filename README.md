@@ -1,7 +1,7 @@
 # ascii
 convert string to ASCII hex values
 
-Linux only
+Linux only.
 
-Linux
+Linux:
 run compile.sh to compile it
